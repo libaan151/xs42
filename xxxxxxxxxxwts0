@@ -224,4 +224,4 @@ end
 
 -- // Return
 -- getgenv().BeizerManager = BeizerManager
-return BeizerManager 
+return BeizerManager
